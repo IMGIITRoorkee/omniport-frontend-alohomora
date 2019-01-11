@@ -1,0 +1,8 @@
+{
+	"nomenclature": {
+		"name": "alohomora",
+		"verboseName": "Alohomora"
+	},
+	"baseUrl": "/alohomora",
+	"source": "alohomora/src/index"
+}
