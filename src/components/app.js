@@ -92,7 +92,7 @@ class App extends Component {
             <Scrollbars autoHide>
               <Container styleName='blocks.content-div'>
                 <Grid centered>
-                  <Grid.Column width={6}>
+                  <Grid.Column computer={6} mobile={16}>
                     <Segment.Group fluid>
                       <Segment attached='top' color='black' textAlign='left'>
                         <Header>
